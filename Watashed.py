@@ -1,3 +1,13 @@
+# This is a computer vision pipeline for instance segmentation for the application
+# of leaf counting in rossette plants. 
+
+# The pipeline utilises the CV2 library and the PlantCV library. 
+
+# Author: Ronan Fraser
+# Date: June 2019 
+
+
+
 import sys
 import cv2
 import numpy
