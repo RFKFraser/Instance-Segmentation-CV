@@ -1,8 +1,10 @@
 # This is a computer vision pipeline for instance segmentation for the application
 # of leaf counting in rossette plants. 
-
+#
 # The pipeline utilises the CV2 library and the PlantCV library. 
-
+# 
+# Rough as guts! needs a re-write
+#
 # Author: Ronan Fraser
 # Date: June 2019 
 
